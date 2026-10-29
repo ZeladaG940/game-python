@@ -2,7 +2,139 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f597208e-6439-4ece-abd2-9c727f33e50b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Java/clase-10-11/ToDo_Front_-_API" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/clase-10-11/ToDo_Front_-_API" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python-pip.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-pip.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-01/leccion-01/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-01/leccion-01/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-01/leccion-01/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-01/leccion-01/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-01/leccion-01/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-01/leccion-01/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-01/leccion-01/src/leccion/pkg01/Leccion01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-02/BloquesInicializacion/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-02/BloquesInicializacion/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-02/BloquesInicializacion/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-02/BloquesInicializacion/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-02/BloquesInicializacion/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-02/BloquesInicializacion/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-02/BloquesInicializacion/src/domain/Persona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-02/BloquesInicializacion/src/test/testBloqueInicializacion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-02/Enumeracioens/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-02/Enumeracioens/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-02/Enumeracioens/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-02/Enumeracioens/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-02/Enumeracioens/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-02/Enumeracioens/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-02/Enumeracioens/src/Enumeraciones/Continentes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-02/Enumeracioens/src/Enumeraciones/Dias.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-02/Enumeracioens/src/test/testEnumeracion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-02/enumeraciones/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-02/enumeraciones/src/enumeraciones/Enumeraciones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-02/leccion_02/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-02/leccion_02/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-02/leccion_02/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-02/leccion_02/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-02/leccion_02/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-02/leccion_02/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/leccion-02/leccion_02/src/leccion_02/Leccion_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaScript/clase-1/MundoPc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaScript/clase-1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaScript/clase-1/systemCompras.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaScript/clase-2/ModoStrict.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaScript/clase-2/POO.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaScript/clase-3/POO.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaScript/clase-4/ManejoDeErrores.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaScript/clase-5/FuncionFlecha.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaScript/clase-6/FuncionesCallback.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../javaScript/clase-6/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/.idea/python.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-1/.idea/clase-1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-1/NumerosIgualesExepcion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-1/manejoDeErrorers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-2/clase-2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-2/clase-2/.idea/clase-2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-2/clase-2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-2/clase-2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-2/clase-2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-2/clase-2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-2/clase-2/ManejoArchivos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-2/clase-2/ManejoDeArchivos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-2/clase-2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-2/clase-2/archivos_con_while.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-2/clase-2/copia.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-2/clase-2/leer_archivo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-2/clase-2/prueba.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-2/clase-2/sample.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-3/catalogo_peliculas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-3/catalogo_peliculas/.idea/catalogo_peliculas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-3/catalogo_peliculas/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-3/catalogo_peliculas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-3/catalogo_peliculas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-3/catalogo_peliculas/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-3/catalogo_peliculas/dominio/Pelicula.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-3/catalogo_peliculas/dominio/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-3/catalogo_peliculas/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-3/catalogo_peliculas/peliculas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-3/catalogo_peliculas/servicio/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-3/catalogo_peliculas/servicio/catalogoPelicula.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-3/catalogo_peliculas/test_catalago_Peliculas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-4/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-4/.idea/leccion-4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-4/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-4/prueba_bd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-5/BD/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-5/BD/.idea/BD.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-5/BD/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-5/BD/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-5/BD/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-5/BD/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-5/BD/actualizar_registro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-5/BD/actualizar_varios_reg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-5/BD/delete_registro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-5/BD/delete_varios_registros.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-5/BD/i_registros.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-5/BD/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-5/BD/prueba_bd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-5/BD/v_i_registros.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-5/BD/v_registros.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-6/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-6/.idea/leccion-6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-6/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-6/prueba.bd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-6/transacciones_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-6/transacciones_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-7/capaDeDatos.uxf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-7/python/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-7/python/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-7/python/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-7/python/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-7/python/.idea/python.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-7/python/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-7/python/capa_datos_personas/Persona.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-7/python/capa_datos_personas/capa_datos.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-7/python/capa_datos_personas/conexion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-7/python/capa_datos_personas/logger_base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-7/python/capa_datos_personas/persona_dao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python/leccion-7/python/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,19 +142,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="12" />
+    <option name="cachedIndexableFilesCount" value="16" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="3LLcWrYlZ5C8ub2UMs5BGGhoQ4n" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,16 +163,51 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/WinterOS/Documents/tenicaturaProgramaccion/Tecnicatura en Programacion 4/game-python",
+    "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-pip" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/game" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/game/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
